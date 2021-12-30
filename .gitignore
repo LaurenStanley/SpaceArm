@@ -1,0 +1,4 @@
+# Ignore Test Images
+Images
+venv
+.idea
